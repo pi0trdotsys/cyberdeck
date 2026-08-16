@@ -27,9 +27,16 @@ full-screen `tty1`, no login prompt, no graphical stack.
 It's built around a simple idea: the hardware is too weak and too old to run a modern desktop
 comfortably, but it's more than capable of being a beautiful, information-dense terminal.
 
-## Screenshot
+## Screenshots
 
-*(insert your own screenshot here — `dashboard.py` running on tty1)*
+The dashboard running on `tty1`, viewed over SSH — full SYSTEM MONITOR with
+battery, disk and live Tailscale mesh status:
+
+![Dashboard — full render](docs/dashboard-render.png)
+
+The info panel in full, with the complete Debian logo:
+
+![Dashboard — info panel detail](docs/dashboard-detail.png)
 
 ## Stack
 

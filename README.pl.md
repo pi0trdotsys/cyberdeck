@@ -27,9 +27,16 @@ w pełnoekranowy `tty1`, bez ekranu logowania, bez żadnej warstwy graficznej.
 Pomysł jest prosty: sprzęt jest zbyt słaby i zbyt stary, żeby wygodnie udźwignąć nowoczesny
 desktop, ale w zupełności wystarcza, żeby być estetycznym, gęstym w informacje terminalem.
 
-## Zrzut ekranu
+## Zrzuty ekranu
 
-*(wstaw tutaj własny zrzut ekranu — `dashboard.py` działający na tty1)*
+Dashboard działający na `tty1`, widziany przez SSH — pełny SYSTEM MONITOR
+z baterią, dyskiem i statusem sieci Tailscale na żywo:
+
+![Dashboard — pełny render](docs/dashboard-render.png)
+
+Panel informacyjny w całości, z kompletnym logo Debiana:
+
+![Dashboard — szczegół panelu info](docs/dashboard-detail.png)
 
 ## Stos technologiczny
 
