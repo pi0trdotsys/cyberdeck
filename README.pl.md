@@ -30,13 +30,9 @@ desktop, ale w zupełności wystarcza, żeby być estetycznym, gęstym w informa
 ## Zrzuty ekranu
 
 Dashboard działający na `tty1`, widziany przez SSH — pełny SYSTEM MONITOR
-z baterią, dyskiem i statusem sieci Tailscale na żywo:
+z baterią, dyskiem:
 
 ![Dashboard — pełny render](docs/dashboard-render.png)
-
-Panel informacyjny w całości, z kompletnym logo Debiana:
-
-![Dashboard — szczegół panelu info](docs/dashboard-detail.png)
 
 ## Stos technologiczny
 
