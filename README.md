@@ -30,13 +30,9 @@ comfortably, but it's more than capable of being a beautiful, information-dense 
 ## Screenshots
 
 The dashboard running on `tty1`, viewed over SSH — full SYSTEM MONITOR with
-battery, disk and live Tailscale mesh status:
+battery, disk status:
 
 ![Dashboard — full render](docs/dashboard-render.png)
-
-The info panel in full, with the complete Debian logo:
-
-![Dashboard — info panel detail](docs/dashboard-detail.png)
 
 ## Stack
 
